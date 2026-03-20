@@ -1,0 +1,5 @@
+{
+  "name": "P2P Snap Game",
+  "description": "A peer-to-peer card game using WebRTC with a fair deck generation scheme.",
+  "requestFramePermissions": []
+}
